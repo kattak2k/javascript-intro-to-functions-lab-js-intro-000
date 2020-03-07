@@ -13,3 +13,8 @@ function logShout(param){
 function logWhisper(param){
    console.log(param.toLowerCase());
 }
+
+function sayHiToGrandma(param){
+   console.log(param.toLowerCase());
+}
+
