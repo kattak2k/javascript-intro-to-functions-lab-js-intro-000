@@ -20,6 +20,7 @@ function sayHiToGrandma(param){
      return "I can't hear you!";
   } else if (param.toUpperCase() == param){
     return "YES INDEED!";
+  } else if (param == "I love you, Grandma.") {
+    return "I love you, too.";
   }
-   console.log(param.toLowerCase());
 }
