@@ -5,3 +5,7 @@ function shout(param){
 function whisper(param){
    return param.toLowerCase();
 }
+
+function logShout(param){
+   return param.toLowerCase();
+}
